@@ -72,10 +72,10 @@ Read the input image in color mode.
 ##  Program
 
 ### Developed By:
-**Name:** Mithun Kumar G
+**Name:** Harish S
 
 ### Register No:
-212224230160 
+212224240052
 
 ```
 # Import 

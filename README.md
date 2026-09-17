@@ -248,28 +248,38 @@ plt.show()
 
 ### Image Translation
 - Original image is displayed  
-- Translated image (shifted right and down) is displayed  
+- Translated image (shifted right and down) is displayed
+- <img width="794" height="284" alt="download" src="https://github.com/user-attachments/assets/48a39a88-91ce-41b0-835e-76f60f711de3" />
+ 
 
 ### Image Scaling
 - Original image is displayed  
 - Downscaled image (0.5×) is displayed  
-- Upscaled image (2×) is displayed  
+- Upscaled image (2×) is displayed
+- <img width="1182" height="252" alt="download" src="https://github.com/user-attachments/assets/64658b65-0c6b-4d65-bb03-d717fc223a27" />
+
 
 ### Image Shearing
 - Original image is displayed  
 - Horizontally sheared image is displayed  
-- Vertically sheared image is displayed  
+- Vertically sheared image is displayed
+- <img width="1182" height="252" alt="download" src="https://github.com/user-attachments/assets/b2411798-fd28-4c7a-a1d1-6db3e34c25c2" />
+
 
 ### Image Reflection
 - Original image is displayed  
 - Horizontally flipped image is displayed  
 - Vertically flipped image is displayed  
-- Both-axis flipped image is displayed  
+- Both-axis flipped image is displayed
+- <img width="1008" height="337" alt="image" src="https://github.com/user-attachments/assets/a99dc2a1-3a72-4014-b3e5-bf6df6c4fd9c" />
+
 
 ### Image Rotation
 - Original image is displayed  
 - 45° rotated image is displayed  
-- 90° rotated image is displayed  
+- 90° rotated image is displayed
+- <img width="1307" height="275" alt="image" src="https://github.com/user-attachments/assets/a3212736-8f06-4f71-8524-5b46a045bbf0" />
+
 
 ---
 

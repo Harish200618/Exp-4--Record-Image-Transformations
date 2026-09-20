@@ -1,6 +1,11 @@
-# Geometric Transformations Using OpenCV
+# Exp 4 Geometric Transformations Using OpenCV
 
 ---
+### Developed By:
+**Name:** Harish S
+
+### Register No:
+212224240052
 
 ## Aim
 
@@ -70,12 +75,6 @@ Read the input image in color mode.
 ---
 
 ##  Program
-
-### Developed By:
-**Name:** Harish S
-
-### Register No:
-212224240052
 
 ```
 # Import 
